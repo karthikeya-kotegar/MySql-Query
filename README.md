@@ -17,4 +17,7 @@ Connect to MySQL database and CRUD using JavaScript.
 VALUES (value1, value2, value3, ...);`
 
 # Run the project:
-`node index.js`
+```
+npm install
+node index.js
+```
